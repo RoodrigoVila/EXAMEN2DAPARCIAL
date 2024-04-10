@@ -1,0 +1,12 @@
+C:\UTEA\CICLO_VII\Ingeniería_de_Software_II\Proyecto\Software_matriculas\WindowsFormsApp1\comun\bin\Debug\comun.dll
+C:\UTEA\CICLO_VII\Ingeniería_de_Software_II\Proyecto\Software_matriculas\WindowsFormsApp1\comun\bin\Debug\comun.pdb
+C:\UTEA\CICLO_VII\Ingeniería_de_Software_II\Proyecto\Software_matriculas\WindowsFormsApp1\comun\obj\Debug\comun.csproj.AssemblyReference.cache
+C:\UTEA\CICLO_VII\Ingeniería_de_Software_II\Proyecto\Software_matriculas\WindowsFormsApp1\comun\obj\Debug\comun.csproj.CoreCompileInputs.cache
+C:\UTEA\CICLO_VII\Ingeniería_de_Software_II\Proyecto\Software_matriculas\WindowsFormsApp1\comun\obj\Debug\comun.dll
+C:\UTEA\CICLO_VII\Ingeniería_de_Software_II\Proyecto\Software_matriculas\WindowsFormsApp1\comun\obj\Debug\comun.pdb
+C:\Users\kevin\OneDrive\Documentos\asoft\Software_matriculas\WindowsFormsApp1\comun\bin\Debug\comun.dll
+C:\Users\kevin\OneDrive\Documentos\asoft\Software_matriculas\WindowsFormsApp1\comun\bin\Debug\comun.pdb
+C:\Users\kevin\OneDrive\Documentos\asoft\Software_matriculas\WindowsFormsApp1\comun\obj\Debug\comun.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Documentos\asoft\Software_matriculas\WindowsFormsApp1\comun\obj\Debug\comun.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Documentos\asoft\Software_matriculas\WindowsFormsApp1\comun\obj\Debug\comun.dll
+C:\Users\kevin\OneDrive\Documentos\asoft\Software_matriculas\WindowsFormsApp1\comun\obj\Debug\comun.pdb

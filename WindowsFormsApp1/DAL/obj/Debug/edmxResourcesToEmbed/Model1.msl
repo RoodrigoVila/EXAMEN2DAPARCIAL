@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BD_MATRICULAModelStoreContainer" CdmEntityContainer="BD_MATRICULAEntities">
+    <EntitySetMapping Name="ESTUDIANTE">
+      <EntityTypeMapping TypeName="BD_MATRICULAModel.ESTUDIANTE">
+        <MappingFragment StoreEntitySet="ESTUDIANTE">
+          <ScalarProperty Name="id_estudiante" ColumnName="id_estudiante" />
+          <ScalarProperty Name="dni" ColumnName="dni" />
+          <ScalarProperty Name="nombres" ColumnName="nombres" />
+          <ScalarProperty Name="apellidos" ColumnName="apellidos" />
+          <ScalarProperty Name="telefono" ColumnName="telefono" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MATRICULA">
+      <EntityTypeMapping TypeName="BD_MATRICULAModel.MATRICULA">
+        <MappingFragment StoreEntitySet="MATRICULA">
+          <ScalarProperty Name="id_matricula" ColumnName="id_matricula" />
+          <ScalarProperty Name="id_estudiante" ColumnName="id_estudiante" />
+          <ScalarProperty Name="nivel" ColumnName="nivel" />
+          <ScalarProperty Name="monto_matricula" ColumnName="monto_matricula" />
+          <ScalarProperty Name="fecha_m" ColumnName="fecha_m" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PENSION">
+      <EntityTypeMapping TypeName="BD_MATRICULAModel.PENSION">
+        <MappingFragment StoreEntitySet="PENSION">
+          <ScalarProperty Name="id_pensiones" ColumnName="id_pensiones" />
+          <ScalarProperty Name="id_estudiante" ColumnName="id_estudiante" />
+          <ScalarProperty Name="n_pension" ColumnName="n_pension" />
+          <ScalarProperty Name="monto" ColumnName="monto" />
+          <ScalarProperty Name="fecha_p" ColumnName="fecha_p" />
+          <ScalarProperty Name="mora" ColumnName="mora" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
